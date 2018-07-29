@@ -1,0 +1,1 @@
+# TODO: Write command that would detect a player who wants to start the game
