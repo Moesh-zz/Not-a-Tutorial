@@ -44,7 +44,7 @@ forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
 entityShadows:true
-mainHand:right
+mainHand:left
 attackIndicator:1
 showSubtitles:false
 realmsNotifications:true
