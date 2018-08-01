@@ -2,6 +2,18 @@
 setblock 146 0 128 minecraft:redstone_block
 setblock 146 0 128 minecraft:stone
 
+# Set-up testing sleep
+summon minecraft:sheep 165.00 11.25 145.66
+summon minecraft:sheep 165.00 11.25 145.66
+summon minecraft:sheep 165.00 11.25 145.66
+summon minecraft:sheep 165.00 11.25 145.66
+summon minecraft:sheep 165.00 11.25 145.66
+summon minecraft:sheep 165.00 11.25 145.66
+summon minecraft:sheep 165.00 11.25 145.66
+summon minecraft:sheep 165.00 11.25 145.66
+summon minecraft:sheep 165.00 11.25 145.66
+summon minecraft:sheep 165.00 11.25 145.66
+
 # Set-up player to play Spleef!
 clear @a
 gamemode adventure @a
