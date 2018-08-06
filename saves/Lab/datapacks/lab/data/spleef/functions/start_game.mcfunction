@@ -20,6 +20,7 @@ clear @a
 effect give @a minecraft:instant_health 10 9 true
 effect give @a minecraft:saturation 10 9 true
 gamemode adventure @a
+effect give @a minecraft:absorption 2 4 true
 spreadplayers 163.00 145.00 5 10 false @e
 give @a minecraft:diamond_shovel{Unbreakable:1b,CanDestroy:["minecraft:snow_block"]}
 
