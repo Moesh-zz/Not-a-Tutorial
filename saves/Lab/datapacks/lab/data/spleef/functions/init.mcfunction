@@ -1,5 +1,9 @@
 scoreboard objectives remove players
 scoreboard objectives add players dummy
+
+scoreboard objectives remove health
+scoreboard objectives add health health
+
 scoreboard objectives remove gamestate
 scoreboard objectives add gamestate dummy
 	# Spleef gamestate: 0 = not running, 1 = running
