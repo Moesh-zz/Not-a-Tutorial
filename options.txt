@@ -15,7 +15,7 @@ fancyGraphics:true
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["vanilla","file/nat"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
