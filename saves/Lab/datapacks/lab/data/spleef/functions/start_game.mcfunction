@@ -24,4 +24,4 @@ spreadplayers 163.00 145.00 5 10 false @e
 give @a minecraft:diamond_shovel{Unbreakable:1b,CanDestroy:["minecraft:snow_block"]}
 
 # Start the game clock
-tag @a add Playing
+scoreboard players set Spleef gamestate 1
