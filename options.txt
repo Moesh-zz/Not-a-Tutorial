@@ -8,7 +8,7 @@ renderDistance:12
 guiScale:0
 particles:0
 bobView:true
-maxFps:120
+maxFps:60
 fboEnable:true
 difficulty:2
 fancyGraphics:true
