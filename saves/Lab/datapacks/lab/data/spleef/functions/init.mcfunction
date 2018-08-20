@@ -10,3 +10,6 @@ scoreboard objectives add gamestate dummy
 	scoreboard players set Spleef gamestate 0
 
 scoreboard objectives setdisplay sidebar gamestate
+
+data merge block 139 3 141 {Text1:"{\"translate\":\"spleef.sign.join.line1\"}",Text2:"{\"translate\":\"spleef.sign.join.line2\"}",Text3:"{\"translate\":\"spleef.sign.join.line3\"}",Text4:"{\"translate\":\"spleef.sign.join.line4\"}"}
+data merge block 141 3 143 {Text1:"{\"translate\":\"spleef.sign.join.line1\"}",Text2:"{\"translate\":\"spleef.sign.join.line2\"}",Text3:"{\"translate\":\"spleef.sign.join.line3\"}",Text4:"{\"translate\":\"spleef.sign.join.line4\"}"}
