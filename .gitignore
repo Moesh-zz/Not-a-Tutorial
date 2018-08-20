@@ -1,34 +1,34 @@
 
-saves/Lab/region/r\.-1\.-1\.mca
+saves/*/region/r\.-1\.-1\.mca
 
-saves/Lab/region/r\.-1\.0\.mca
+saves/*/region/r\.-1\.0\.mca
 
-saves/Lab/region/r\.0\.-1\.mca
+saves/*/region/r\.0\.-1\.mca
 
-saves/Lab/session\.lock
+saves/*/session\.lock
 
-saves/Lab/stats/
+saves/*/stats/
 
 usercache\.json
 
-saves/Lab/playerdata/
+saves/*/playerdata/
 
 logs/
 
 realms_persistence\.json
 
-saves/Lab/advancements/
+saves/*/advancements/
 
-saves/Lab/data/villages_end\.dat
+saves/*/data/villages_end\.dat
 
-saves/Lab/data/villages_nether\.dat
+saves/*/data/villages_nether\.dat
 
-saves/Lab/data/villages\.dat
+saves/*/data/villages\.dat
 
-saves/Lab/level\.dat_old
+saves/*/level\.dat_old
 
-saves/Lab/region/r\.1\.-1\.mca
+saves/*/region/r\.1\.-1\.mca
 
-saves/Lab/region/r\.1\.0\.mca
+saves/*/region/r\.1\.0\.mca
 
-saves/Lab/data/
+saves/*/data/
